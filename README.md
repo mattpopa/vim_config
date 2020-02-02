@@ -1,5 +1,6 @@
-## vim config
-my vim config, obvioulsy
+## Vim config
+
+my vim config, obvioulsy </br>
 this is for vim 8+, with conceal (optional)
 
 ## How to use this
